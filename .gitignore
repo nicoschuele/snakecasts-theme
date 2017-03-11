@@ -1,0 +1,5 @@
+*.sublime-*
+*_tmp*
+extras.json
+tmp
+.DS_Store
